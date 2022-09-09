@@ -14,4 +14,4 @@ this is a repository created to explain somethings around .md extensions and tex
 ### Gist
 now I will insert my code gist, using [word](link of gist), and it will make the word become de link of the gist
 I will do it with the word "click", so i will wrote [click]() and insert the link:
-[click].(<script src="https://gist.github.com/StanleyTC/e89e61c50d58af99060d6b63e7fa0b1b.js"></script>)
+[click](<script src="https://gist.github.com/StanleyTC/e89e61c50d58af99060d6b63e7fa0b1b.js"></script>)
