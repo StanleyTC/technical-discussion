@@ -19,3 +19,6 @@ I will do it with the word "click", so i will wrote [click] () and insert the li
 ### Colab Example
 
 this is the [link of example with notepad collab](https://github.com/StanleyTC/technical-discussion/blob/main/Untitled1.ipynb)
+
+###Have a great day!
+![image](https://user-images.githubusercontent.com/95464654/189455997-0cfc4cbd-df57-468d-8a3d-715d7fd674df.png)
